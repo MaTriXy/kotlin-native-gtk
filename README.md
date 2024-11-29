@@ -1,7 +1,6 @@
+The project is not maintained, please see https://gitlab.com/gtk-kn/gtk-kn for an alternative.
+
 # kotlin-native-gtk
-
-
-[![JetBrains incubator project](http://jb.gg/badges/team-flat-square.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 
 GTK+ bindings for Kotlin Native
 
